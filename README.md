@@ -7,39 +7,37 @@ The project is a Discord clone with responsive design that provides users with t
   </p>
 
   <p>
-    <a href="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/GeriFixit/Nextjs-Discord-clone-with-Livekit" alt="contributors" />
+    <a href="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit" alt="contributors" />
     </a>
     <a href="">
-      <img src="https://img.shields.io/github/last-commit/GeriFixit/Nextjs-Discord-clone-with-Livekit" alt="last update" />
+      <img src="https://img.shields.io/github/last-commit/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit" alt="last update" />
     </a>
-    <a href="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/network/members">
-      <img src="https://img.shields.io/github/forks/GeriFixit/Nextjs-Discord-clone-with-Livekit" alt="forks" />
+    <a href="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/network/members">
+      <img src="https://img.shields.io/github/forks/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit" alt="forks" />
     </a>
-    <a href="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/stargazers">
-      <img src="https://img.shields.io/github/stars/GeriFixit/Nextjs-Discord-clone-with-Livekit" alt="stars" />
+    <a href="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/stargazers">
+      <img src="https://img.shields.io/github/stars/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit" alt="stars" />
     </a>
-    <a href="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/issues/">
-      <img src="https://img.shields.io/github/issues/GeriFixit/Nextjs-Discord-clone-with-Livekit" alt="open issues" />
+    <a href="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/issues/">
+      <img src="https://img.shields.io/github/issues/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit" alt="open issues" />
     </a>
   </p>
    
   <h4>
     <a href="#">Demo currently not avaliable because of the cost of third-party tools</a>
     <span> · </span>
-    <a href="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/blob/main/readme.md">Documentation</a>
+    <a href="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/readme.md">Documentation</a>
     <span> · </span>
-    <a href="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/issues/">Report Bug</a>
+    <a href="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/issues/">Report Bug</a>
     <span> · </span>
-    <a href="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/issues/">Request Feature</a>
+    <a href="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/issues/">Request Feature</a>
   </h4>
 </div>
 
 <br/>
 
 # Discord clone by Geri Fixit (pseudo-name)
-
-## Features
 
 ## Features
 
@@ -81,13 +79,13 @@ The project is a Discord clone with responsive design that provides users with t
 - Clone the repository:
 
   ```bash
-  git clone https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit
+  git clone https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit
   ```
 
 - Navigate to the project directory:
 
   ```bash
-  cd auth-savvy
+  cd discord
   ```
 
 - Install the dependencies:
@@ -96,7 +94,7 @@ The project is a Discord clone with responsive design that provides users with t
   npm install
   ```
 
-- Create .env file and setup all the neccessary env variables (given project uses Neon.tech as a rdms provider)
+- Create .env file and setup all the neccessary env variables (Project uses NeonDb, UploadThing, ClerkJs and LiveKit as a third party db and SaaS)
 
 ```
 
@@ -140,22 +138,66 @@ NEXT_PUBLIC_LIVEKIT_URL=
 ## :camera: Screenshots
 
 <table>
-  <tr>
-    <td><img width="400" alt="2FA Code Page" src="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/blob/main/public/2faCodePage.PNG"></td>
-    <td><img width="400" alt="Admin Actions Permissions Page" src="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/blob/main/public/adminActionsPermissionsPage.PNG"></td>
-  </tr>
-  <tr>
-    <td><img width="400" alt="Client Side Actions Page" src="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/blob/main/public/clientSideActionsPage.PNG"></td>
-    <td><img width="400" alt="Edit Settings Page" src="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/blob/main/public/editSettingsPage.PNG"></td>
-  </tr>
-  <tr>
-    <td><img width="400" alt="Login Page" src="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/blob/main/public/loginPage.PNG"></td>
-    <td><img width="400" alt="Password Recovery Page" src="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/blob/main/public/passwordRecoveryPage.PNG"></td>
-  </tr>
-  <tr>
-    <td><img width="400" alt="Registration Page" src="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/blob/main/public/registrationPage.PNG"></td>
-    <td><img width="400" alt="Server Side Actions Page" src="https://github.com/GeriFixit/Nextjs-Discord-clone-with-Livekit/blob/main/public/serverSideActionsPage.png"></td>
-  </tr>
+      <tr>
+            <td><img src="1pic-light.PNG" alt="10pic-light" width="100"></td>
+            <td><img src="1pic.PNG" alt="10pic" width="100"></td>
+            <td><img src="1mobile.PNG" alt="13mobile" width="100"></td>
+        </tr>
+        <tr>
+            <td><img src="2pic-light.PNG" alt="11pic-light" width="100"></td>
+            <td><img src="2pic.PNG" alt="11pic" width="100"></td>
+            <td><img src="2mobile.PNG" alt="1mobile" width="100"></td>
+        </tr>
+        <tr>
+            <td><img src="3pic-light.PNG" alt="12pic-light" width="100"></td>
+            <td><img src="3pic.PNG" alt="12pic" width="100"></td>
+            <td><img src="3mobile.PNG" alt="2mobile" width="100"></td>
+        </tr>
+        <tr>
+            <td><img src="4pic-light.PNG" alt="13pic-light" width="100"></td>
+            <td><img src="4pic.PNG" alt="13pic" width="100"></td>
+            <td><img src="4mobile.PNG" alt="3mobile" width="100"></td>
+        </tr>
+        <tr>
+            <td><img src="13pic-light.PNG" alt="1pic-light" width="100"></td>
+            <td><img src="13pic.PNG" alt="1pic" width="100"></td>
+            <td><img src="13mobile.PNG" alt="4mobile" width="100"></td>
+        </tr>
+        <tr>
+            <td><img src="5pic-light.PNG" alt="2pic-light" width="100"></td>
+            <td><img src="5pic.PNG" alt="2pic" width="100"></td>
+            <td><img src="5mobile.PNG" alt="5mobile" width="100"></td>
+        </tr>
+        <tr>
+            <td><img src="6pic-light.PNG" alt="3pic-light" width="100"></td>
+            <td><img src="6pic.PNG" alt="3pic" width="100"></td>
+            <td><img src="6mobile.PNG" alt="6mobile" width="100"></td>
+        </tr>
+        <tr>
+            <td><img src="7pic-light.PNG" alt="4pic-light" width="100"></td>
+            <td><img src="7pic.PNG" alt="4pic" width="100"></td>
+            <td><img src="7mobile.PNG" alt="7mobile" width="100"></td>
+        </tr>
+        <tr>
+            <td><img src="8pic-light.PNG" alt="5pic-light" width="100"></td>
+            <td><img src="8pic.PNG" alt="5pic" width="100"></td>
+            <td><img src="8mobile.PNG" alt="8mobile" width="100"></td>
+        </tr>
+        <tr>
+            <td><img src="9pic-light.PNG" alt="6pic-light" width="100"></td>
+            <td><img src="9pic.PNG" alt="6pic" width="100"></td>
+            <td><img src="9mobile.PNG" alt="9mobile" width="100"></td>
+        </tr>
+        <tr>
+            <td><img src="10pic-light.PNG" alt="7pic-light" width="100"></td>
+            <td><img src="10pic.PNG" alt="7pic" width="100"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><img src="11pic-light.PNG" alt="8pic-light" width="100"></td>
+            <td><img src="11pic.PNG" alt="8pic" width="100"></td>
+            <td></td>
+        </tr>
 </table>
 
 <br/>
