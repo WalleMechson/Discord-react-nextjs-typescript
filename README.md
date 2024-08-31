@@ -1,9 +1,9 @@
 <div align="center">
   <br/>
-            <h1 style="font-size: 70px;"><img src="discord-logo-discord-icon-transparent-free-png.webp" /> Nextjs Responsive Discord clone with Livekit</h1>
+            <h1 style="font-size: 70px;"><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/discord-logo-discord-icon-transparent-free-png.webp" />  Responsive Nextjs Discord clone with Livekit 🚀</h1>
   <br/>
   <p>
-The project is a Discord clone with responsive design that provides users with the ability to create servers and channels, manage members (including changing roles and kicking users), and invite others. It features a real-time, WebSocket and React-Query based text chat, where users can edit and delete messages, as well as upload pictures and files. The project also implements audio and video chat for server channels and direct messages using LiveKit. Authentication is handled by Clerk, file management by UploadThing, the database is powered by Neon.tech, and Prisma is used as the ORM.
+Create servers, manage roles, and chat in real-time with WebSocket and React-Query. Enjoy audio/video calls with LiveKit, and handle files with UploadThing. Powered by Clerk for auth, Neon.tech for the database, and Prisma ORM.
   </p>
 
   <p>
@@ -136,66 +136,65 @@ NEXT_PUBLIC_LIVEKIT_URL=
 <br/>
 
 ## :camera: Screenshots
-
 <table>
       <tr>
-            <td><img src="1pic-light.PNG" alt="10pic-light" width="100"></td>
-            <td><img src="1pic.PNG" alt="10pic" width="100"></td>
-            <td><img src="1mobile.PNG" alt="13mobile" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/1pic-light.PNG" alt="10pic-light" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/1pic.PNG" alt="10pic" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/1mobile.PNG" alt="13mobile" width="100"></td>
         </tr>
         <tr>
-            <td><img src="2pic-light.PNG" alt="11pic-light" width="100"></td>
-            <td><img src="2pic.PNG" alt="11pic" width="100"></td>
-            <td><img src="2mobile.PNG" alt="1mobile" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/2pic-light.PNG" alt="11pic-light" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/2pic.PNG" alt="11pic" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/2mobile.PNG" alt="1mobile" width="100"></td>
         </tr>
         <tr>
-            <td><img src="3pic-light.PNG" alt="12pic-light" width="100"></td>
-            <td><img src="3pic.PNG" alt="12pic" width="100"></td>
-            <td><img src="3mobile.PNG" alt="2mobile" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/3pic-light.PNG" alt="12pic-light" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/3pic.PNG" alt="12pic" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/3mobile.PNG" alt="2mobile" width="100"></td>
         </tr>
         <tr>
-            <td><img src="4pic-light.PNG" alt="13pic-light" width="100"></td>
-            <td><img src="4pic.PNG" alt="13pic" width="100"></td>
-            <td><img src="4mobile.PNG" alt="3mobile" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/4pic-light.PNG" alt="13pic-light" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/4pic.PNG" alt="13pic" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/4mobile.PNG" alt="3mobile" width="100"></td>
         </tr>
         <tr>
-            <td><img src="13pic-light.PNG" alt="1pic-light" width="100"></td>
-            <td><img src="13pic.PNG" alt="1pic" width="100"></td>
-            <td><img src="13mobile.PNG" alt="4mobile" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/13pic-light.PNG" alt="1pic-light" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/13pic.PNG" alt="1pic" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/13mobile.PNG" alt="4mobile" width="100"></td>
         </tr>
         <tr>
-            <td><img src="5pic-light.PNG" alt="2pic-light" width="100"></td>
-            <td><img src="5pic.PNG" alt="2pic" width="100"></td>
-            <td><img src="5mobile.PNG" alt="5mobile" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/5pic-light.PNG" alt="2pic-light" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/5pic.PNG" alt="2pic" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/5mobile.PNG" alt="5mobile" width="100"></td>
         </tr>
         <tr>
-            <td><img src="6pic-light.PNG" alt="3pic-light" width="100"></td>
-            <td><img src="6pic.PNG" alt="3pic" width="100"></td>
-            <td><img src="6mobile.PNG" alt="6mobile" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/6pic-light.PNG" alt="3pic-light" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/6pic.PNG" alt="3pic" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/6mobile.PNG" alt="6mobile" width="100"></td>
         </tr>
         <tr>
-            <td><img src="7pic-light.PNG" alt="4pic-light" width="100"></td>
-            <td><img src="7pic.PNG" alt="4pic" width="100"></td>
-            <td><img src="7mobile.PNG" alt="7mobile" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/7pic-light.PNG" alt="4pic-light" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/7pic.PNG" alt="4pic" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/7mobile.PNG" alt="7mobile" width="100"></td>
         </tr>
         <tr>
-            <td><img src="8pic-light.PNG" alt="5pic-light" width="100"></td>
-            <td><img src="8pic.PNG" alt="5pic" width="100"></td>
-            <td><img src="8mobile.PNG" alt="8mobile" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/8pic-light.PNG" alt="5pic-light" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/8pic.PNG" alt="5pic" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/8mobile.PNG" alt="8mobile" width="100"></td>
         </tr>
         <tr>
-            <td><img src="9pic-light.PNG" alt="6pic-light" width="100"></td>
-            <td><img src="9pic.PNG" alt="6pic" width="100"></td>
-            <td><img src="9mobile.PNG" alt="9mobile" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/9pic-light.PNG" alt="6pic-light" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/9pic.PNG" alt="6pic" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/9mobile.PNG" alt="9mobile" width="100"></td>
         </tr>
         <tr>
-            <td><img src="10pic-light.PNG" alt="7pic-light" width="100"></td>
-            <td><img src="10pic.PNG" alt="7pic" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/10pic-light.PNG" alt="7pic-light" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/10pic.PNG" alt="7pic" width="100"></td>
             <td></td>
         </tr>
         <tr>
-            <td><img src="11pic-light.PNG" alt="8pic-light" width="100"></td>
-            <td><img src="11pic.PNG" alt="8pic" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/11pic-light.PNG" alt="8pic-light" width="100"></td>
+            <td><img src="https://github.com/GeriFixit/Responsive-Nextjs-Discord-clone-with-Livekit/blob/main/github_assets/11pic.PNG" alt="8pic" width="100"></td>
             <td></td>
         </tr>
 </table>
